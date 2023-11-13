@@ -1,0 +1,31 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar {
+  width: 100%;
+  height: 50px;
+  padding: 5px 4px ;
+  background: rgba(0,0,0,0.8);
+}
+.navbar ul {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  line-height: 5vh;
+  list-style: none;
+  text-decoration: none;
+}
+ul li {
+  font-family: Monospace;
+  font-weight: bold;
+}
+.anchor-none {
+  text-decoration: none;
+  color: #fff;
+}
+.anchor-none:hover,.anchor-none.active {
+  color: #cfd8db73;
+  border-top: 1px solid #77dfab;
+}
