@@ -7,9 +7,7 @@ export default function FoodCard({FoodsProd}){
      return(
       <div key={elem.id} className="card flex">
       <div className="card-left">
-       <img
-        src={elem.imgUri}
-        alt={elem.name}
+       <img src={elem.imgUri} alt={elem.name}
        />
       </div>
       <div className="card-right">
