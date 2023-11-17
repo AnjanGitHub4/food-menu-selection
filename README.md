@@ -1,3 +1,17 @@
+# Food-menu-selection
+Select foods basis on different times.It is simple project, anyone can use it for self practice such as beginners.
+## `project resources`
+- pure css
+- online images
+- problem on fetch local images from `public/image` folder.
+- react-create-app
+
+# Author & Developer
+- Anjan Maity
+
+# Future Implementations
+- This project needs more features implementation.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
